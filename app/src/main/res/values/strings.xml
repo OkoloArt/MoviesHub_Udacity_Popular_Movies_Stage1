@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MoviesHub</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="overview">OverView:</string>
 </resources>
